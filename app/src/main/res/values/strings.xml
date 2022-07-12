@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Simple Calculator</string>
+    <string name="enter_first_parameter">Enter first parameter</string>
+    <string name="enter_second_parameter">Enter second parameter</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="div">DIV</string>
+    <string name="mul">MUL</string>
+    <string name="default_displayed_value">0.0</string>
+
+</resources>
